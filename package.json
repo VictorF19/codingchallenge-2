@@ -1,0 +1,27 @@
+{
+  "name": "codingchallenge-2",
+  "version": "1.0.0",
+  "description": "A TOTVS quer lançar um site de leilões. Foi feita uma planning com o time o qual você é integrante e a sprint começou. Suas tarefas são as seguintes:",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorF19/codingchallenge-2.git"
+  },
+  "author": "Victor F.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorF19/codingchallenge-2/issues"
+  },
+  "homepage": "https://github.com/VictorF19/codingchallenge-2#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
